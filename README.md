@@ -1,4 +1,4 @@
-# TechFlow Solutions - Company Website
+# Task 1 - TechFlow Solutions - Company Website
 
 ## Student Assignment: Contact Us Page
 
@@ -9,7 +9,7 @@ Students will add a "Contact Us" page to this website following proper Git workf
 
 #### 1. Clone the Repository
 ```bash
-git clone [YOUR_REPO_URL]
+git clone https://github.com/Hacking-the-Heck/hacking-cicd-tasks.git
 cd company-website
 ```
 
