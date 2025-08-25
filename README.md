@@ -1,9 +1,7 @@
-# Task 1 - TechFlow Solutions - Company Website
+# Topic 1: Pactise - Git Workflow Assignment: Contact Us Page
 
-## 🎯 Student Assignment: Contact Us Page
-
-### Task Overview
-Students will add a "Contact Us" page to this website following proper Git workflows.
+### 🎯 Task Overview
+Add a "Contact Us" page to this company website following proper Git workflows.
 
 ### Assignment Steps
 
