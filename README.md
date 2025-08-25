@@ -1,6 +1,6 @@
 # Task 1 - TechFlow Solutions - Company Website
 
-## Student Assignment: Contact Us Page
+## 🎯 Student Assignment: Contact Us Page
 
 ### Task Overview
 Students will add a "Contact Us" page to this website following proper Git workflows.
