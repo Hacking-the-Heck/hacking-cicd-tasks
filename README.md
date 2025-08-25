@@ -49,7 +49,7 @@ git commit -m "feature: add contact us page with form and company info"
 # Push feature branch
 git push origin feature/contact-us-page
 
-# Create pull request via GitHub web interface
+# Create pull request 
 ```
 
 ## 📝 Suggested Contact Page Content
