@@ -1,9 +1,7 @@
 # Topic 1: Pactise - Git Workflow Assignment: Contact Us Page
 
-### 🎯 Task Overview
+## 🎯 Task Overview
 Add a "Contact Us" page to this company website following proper Git workflows.
-
-### Assignment Steps
 
 #### 1. Clone the Repository
 ```bash
