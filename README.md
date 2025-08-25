@@ -10,7 +10,7 @@ Students will add a "Contact Us" page to this website following proper Git workf
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/Hacking-the-Heck/hacking-cicd-tasks.git
-cd company-website
+cd Topic_1
 ```
 
 #### 2. Configure Git
