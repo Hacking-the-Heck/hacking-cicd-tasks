@@ -22,7 +22,7 @@ git checkout -b feature/contact-us-page
 
 #### 4. What to Implement
 
-Students should create a **contact.html** file with the following features:
+Create a **contact.html** file with the following features:
 - Contact form with fields: Name, Email, Subject, Message
 - Company contact information (address, phone, email)
 - Embedded map (can use placeholder or Google Maps iframe)
@@ -35,7 +35,7 @@ Students should create a **contact.html** file with the following features:
 - Update `script.js`: Add form validation (optional)
 
 #### 5. Example Contact Link Addition
-In `index.html`, students should add this to the navigation:
+In `index.html`, add this to the navigation:
 ```html
 <li><a href="contact.html" class="nav-link">Contact</a></li>
 ```
